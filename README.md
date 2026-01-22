@@ -32,10 +32,9 @@ This system addresses these challenges by combining **Document AI**, **semantic 
 
 ---
 
+<img width="1884" height="893" alt="image" src="https://github.com/user-attachments/assets/f6f59d8c-5fcf-46db-9b30-481e5c23201e" />
+
 ## 🏗️ High-Level Architecture
-
-
-::contentReference[oaicite:0]{index=0}
 
 
 **Pipeline Overview**
